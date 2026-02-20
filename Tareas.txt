@@ -1,7 +1,7 @@
 === LISTA DE TAREAS DEL EQUIPO ===
 PENDIENTES:
 === TAREAS PERSONA A ===
-- (Persona A: añadir aquí su tarea)
+- Configurar el entorno de desarrollo (Persona A)
 === TAREAS PERSONA B ===
 - (Persona B: añadir aquí su tarea)
 === TAREAS PERSONA C ===
