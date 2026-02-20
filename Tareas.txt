@@ -3,7 +3,7 @@ PENDIENTES:
 === TAREAS PERSONA A ===
 - Configurar el entorno de desarrollo (Persona A)
 === TAREAS PERSONA B ===
-- (Persona B: añadir aquí su tarea)
+- Diseñar la interfaz de usuario (Persona B)
 === TAREAS PERSONA C ===
 - Escribir la documentación (Persona C)
 COMPLETADAS:
