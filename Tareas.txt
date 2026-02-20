@@ -1,9 +1,9 @@
 === LISTA DE TAREAS DEL EQUIPO ===
 PENDIENTES:
 === TAREAS PERSONA A ===
-- (Persona A: añadir aquí su tarea)
+- Configurar el entorno de desarrollo (Persona A)
 === TAREAS PERSONA B ===
-- (Persona B: añadir aquí su tarea)
+- Diseñar la interfaz de usuario (Persona B)
 === TAREAS PERSONA C ===
-- (Persona C: añadir aquí su tarea)
+- Escribir la documentación (Persona C)
 COMPLETADAS:
