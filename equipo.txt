@@ -1,0 +1,4 @@
+=== INTEGRANTE C === 
+Nombre: [Daniel Jan] 
+Tecnología asignada: MongoDB 
+Estado personal: En progreso
